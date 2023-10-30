@@ -1,0 +1,50 @@
+[06-Jun-2021 21:39:06 UTC] PHP Warning:  include(/home/mdeduchem/mdeduchem.com\connection.php): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:39:06 UTC] PHP Warning:  include(/home/mdeduchem/mdeduchem.com\connection.php): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:39:06 UTC] PHP Warning:  include(): Failed opening '/home/mdeduchem/mdeduchem.com\connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:39:06 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 12
+[06-Jun-2021 21:39:06 UTC] PHP Notice:  Undefined variable: conn in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 285
+[06-Jun-2021 21:39:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 285
+[06-Jun-2021 21:39:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 286
+[06-Jun-2021 21:41:28 UTC] PHP Warning:  include(\connection.php): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:41:28 UTC] PHP Warning:  include(\connection.php): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:41:28 UTC] PHP Warning:  include(): Failed opening '\connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:41:28 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 12
+[06-Jun-2021 21:41:28 UTC] PHP Notice:  Undefined variable: conn in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 285
+[06-Jun-2021 21:41:28 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 285
+[06-Jun-2021 21:41:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 286
+[06-Jun-2021 21:42:14 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:42:14 UTC] PHP Warning:  include(connection.php): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:42:14 UTC] PHP Warning:  include(): Failed opening 'connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 11
+[06-Jun-2021 21:42:14 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 12
+[06-Jun-2021 21:42:14 UTC] PHP Notice:  Undefined variable: conn in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 285
+[06-Jun-2021 21:42:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 285
+[06-Jun-2021 21:42:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 286
+[06-Jun-2021 21:42:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'mdeduchem_admin'@'localhost' to database 'mdeduchem_db' in /home/mdeduchem/mdeduchem.com/connection.php on line 14
+[06-Jun-2021 21:42:59 UTC] PHP Notice:  Trying to get property 'connect_error' of non-object in /home/mdeduchem/mdeduchem.com/connection.php on line 15
+[06-Jun-2021 21:42:59 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 12
+[06-Jun-2021 21:42:59 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 285
+[06-Jun-2021 21:42:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 286
+[06-Jun-2021 21:58:08 UTC] PHP Notice:  Undefined index: type in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 14
+[06-Jun-2021 21:58:09 UTC] PHP Notice:  Undefined variable: data in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 519
+[06-Jun-2021 22:31:01 UTC] PHP Notice:  Undefined variable: temp_name in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 118
+[07-Jun-2021 18:21:30 UTC] PHP Warning:  move_uploaded_file(./../image/thambnail/2021/June/3202106062130.jpeg): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 126
+[07-Jun-2021 18:21:30 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpL8UZ2T' to './../image/thambnail/2021/June/3202106062130.jpeg' in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 126
+[07-Jun-2021 18:26:26 UTC] PHP Warning:  move_uploaded_file(./../image/thambnail/2021/June/3202106062626.jpeg): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 126
+[07-Jun-2021 18:26:26 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpkEwnbG' to './../image/thambnail/2021/June/3202106062626.jpeg' in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 126
+[07-Jun-2021 19:28:44 UTC] PHP Warning:  Creating default object from empty value in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 484
+[07-Jun-2021 20:05:35 UTC] PHP Warning:  move_uploaded_file(./../image/thambnail/video/2021/June/5202106080535.jpg): failed to open stream: No such file or directory in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 206
+[07-Jun-2021 20:05:35 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpcMSMPH' to './../image/thambnail/video/2021/June/5202106080535.jpg' in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 206
+[07-Jun-2021 20:24:44 UTC] PHP Notice:  Undefined variable: data in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 505
+[08-Jun-2021 12:33:44 UTC] PHP Notice:  Undefined index: type in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 14
+[08-Jun-2021 12:33:44 UTC] PHP Notice:  Undefined variable: data in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 505
+[09-Jun-2021 16:21:49 UTC] PHP Notice:  Undefined variable: data in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 505
+[09-Jun-2021 16:22:45 UTC] PHP Notice:  Undefined variable: data in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 505
+[10-Jun-2021 09:17:24 UTC] PHP Notice:  Undefined variable: data in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 505
+[24-Jun-2021 17:56:59 UTC] PHP Notice:  Undefined index: token in /home/mdeduchem/mdeduchem.com/Dashboard/backend/store_token.php on line 7
+[24-Jun-2021 17:57:17 UTC] PHP Notice:  Undefined index: token in /home/mdeduchem/mdeduchem.com/Dashboard/backend/store_token.php on line 7
+[24-Jun-2021 18:05:43 UTC] PHP Notice:  Undefined index: token in /home/mdeduchem/mdeduchem.com/Dashboard/backend/store_token.php on line 8
+[24-Jun-2021 18:06:15 UTC] PHP Notice:  Undefined index: token in /home/mdeduchem/mdeduchem.com/Dashboard/backend/store_token.php on line 8
+[24-Jun-2021 18:06:19 UTC] PHP Notice:  Undefined index: token in /home/mdeduchem/mdeduchem.com/Dashboard/backend/store_token.php on line 8
+[24-Jun-2021 18:08:19 UTC] PHP Notice:  Undefined index: token in /home/mdeduchem/mdeduchem.com/Dashboard/backend/store_token.php on line 10
+[07-Jul-2021 18:30:20 UTC] PHP Notice:  Undefined index: type in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 14
+[07-Jul-2021 18:30:20 UTC] PHP Notice:  Undefined variable: data in /home/mdeduchem/mdeduchem.com/Dashboard/backend/data.php on line 567
